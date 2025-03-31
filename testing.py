@@ -21,7 +21,7 @@ sheeting = booking["ГРУППЫ"]
 
 
 
-bot = telebot.TeleBot("7572341557:AAE5dh4zSZX4rJB1t5-_11AySKI748RWvig")
+bot = telebot.TeleBot("XXXXXXXXXXXXXXX")
 
 
 
